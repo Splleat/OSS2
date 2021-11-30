@@ -15,4 +15,8 @@
 ![bandicam-2021-11-30-22-27-50-621](https://user-images.githubusercontent.com/94677012/144058595-e9e28988-ed4e-454d-88e4-3352fa204919.gif)
 
 ## 4 :  Plotting some variables in python
+`%s/y1/abs(y1)/g<CR>:%s/1/\=line('.')-1/g<CR>/k<CR>rgkrrkrbZZ` : **Score : 52**
+
+![bandicam-2021-11-30-22-30-17-595](https://user-images.githubusercontent.com/94677012/144058974-49e66a0f-2363-43ec-abf7-99afcd976104.gif)
+
 ## 5 : Python dataclasses
