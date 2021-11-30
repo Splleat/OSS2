@@ -20,3 +20,6 @@
 ![bandicam-2021-11-30-22-30-17-595](https://user-images.githubusercontent.com/94677012/144058974-49e66a0f-2363-43ec-abf7-99afcd976104.gif)
 
 ## 5 : Python dataclasses
+`5HywGbpa,name,age,score<Esc>ZZ` : **Score : 26**
+
+![bandicam-2021-11-30-22-31-10-935](https://user-images.githubusercontent.com/94677012/144059395-1b89eb82-8cdc-4ca6-9ff5-905034084070.gif)
